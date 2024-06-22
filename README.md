@@ -53,3 +53,8 @@ Use following config and adjust it according to your needs:
 rbor-merito
 Quinctilli-Merito-100241
 pawel-sikora-merito
+
+''
+## Additional contributors:
+93002-merito
+"
